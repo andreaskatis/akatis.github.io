@@ -1,5 +1,5 @@
 <div>
-<img src="andreaskatis.jpg" width="200" style="align:right;"/>
+<img src="andreaskatis.jpg" width="200" style="float:right;"/>
 
 <p> Hi there! My name is Andreas Katis and I am a Computer Scientist for KBR, Inc. and a member of NASA Ames's Robust Software Engineering group (RSE).
 My research background is in the application of formal methods for the analysis of software systems, primarily at the level of requirements.
