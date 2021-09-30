@@ -1,7 +1,7 @@
-<div class="holder">
+<div class="holder" style="float:left">
 
 <div class="akimage">
-<img src="andreaskatis.jpg" width="150" style="float:right"/>
+<img src="andreaskatis.jpg" width="150"/>
 </div>
 &nbsp;
 &nbsp;
